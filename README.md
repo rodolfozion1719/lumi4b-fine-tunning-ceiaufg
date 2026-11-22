@@ -12,7 +12,7 @@ Repositório da equipe para a competição de fine-tuning do modelo **CEIA-BR Lu
 - **Modelo Base:** `ceia-research/lumi-4b`
 - **Técnica:** QLoRA / LoRA (PEFT)
 - **Métrica Alvo:** F1-Score
-- **Checkpoint Hugging Face:** *[...]*
+- **Checkpoint Hugging Face:** *[Em treinamento — link será disponibilizado após a submissão final]*
 
 ## ⚙️ Configuração do Ambiente
 
