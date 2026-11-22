@@ -1,10 +1,21 @@
-torch
-transformers
-datasets
-accelerate
-peft
-bitsandbytes
-trl
-scikit-learn
+# Instalar PRIMEIRO, com a versão de CUDA da máquina (ver pytorch.org):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+
+
+# Modelo: o config.json do Lumi foi salvo com transformers 5.8.1
+transformers>=5.8.1
+trl>=1.18
+peft>=0.17
+accelerate>=1.10
+bitsandbytes>=0.46        # só necessário para QLoRA (quantização 4 bits)
+datasets>=3.0
+huggingface_hub
 pandas
+scikit-learn
+pyyaml
 tqdm
+pytest
+
+# Obrigatórias para o Lumi (arquitetura Nemotron-H). Instalar DEPOIS do torch,
+# com a versão de CUDA da máquina:
+#   pip install mamba-ssm causal-conv1d --no-build-isolation
