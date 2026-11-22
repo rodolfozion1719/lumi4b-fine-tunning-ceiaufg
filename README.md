@@ -44,7 +44,7 @@ Princípios que valem desde o início. Os arquivos que os sustentam serão criad
 
 | Princípio | Na prática |
 | :--- | :--- |
-| Organização AJCAT | Ainda a definir. |
+| Divisão de papéis | Distribuição entre dados, treino e inferência definida com a equipe. |
 | Uma mudança por vez | Em cada experimento alteramos um único fator (por exemplo, só o learning rate). |
 | Comparação justa | Mesma validação, mesma métrica e mesmo prompt em todas as tentativas. |
 | Tudo anotado | Cada experimento registra quem rodou, o que mudou e o F1 obtido. |
