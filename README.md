@@ -4,15 +4,15 @@ Repositório da equipe para a competição de fine-tuning do modelo **CEIA-BR Lu
 
 ## 👥 Equipe
 
-- [Rodolfo Zion](https://github.com/rodolfozion1719)
-- [Nome 1](link-github)
-- [Nome 2](link-github)
+- [Rodolfo Zion Ruthes Brito](https://github.com/rodolfozion1719)
+- [Mouhamed Jamal Jomaa](mouhamedjj2008-oss)
+- [José Daniel Rodrigues de Melo ](jdrmprofissional08-hue)
 
 ## 📌 Visão Geral
 - **Modelo Base:** `ceia-research/lumi-4b`
 - **Técnica:** QLoRA / LoRA (PEFT)
 - **Métrica Alvo:** F1-Score
-- **Checkpoint Hugging Face:** *[Link do modelo treinado]*
+- **Checkpoint Hugging Face:** *[...]*
 
 ## ⚙️ Configuração do Ambiente
 
