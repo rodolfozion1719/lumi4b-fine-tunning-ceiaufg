@@ -63,20 +63,11 @@ Princípios que valem desde o início. Os arquivos que os sustentam serão criad
 | 6 | Melhorias: dados sintéticos, hiperparâmetros, pós-processamento | Não iniciada |
 | 7 | Publicar modelo e código, e testar o carregamento | Não iniciada |
 
-## ❓ Perguntas para a organização
-
-- Qual é a tarefa e em que formato o modelo deve responder?
-- Como é calculado o F1 personalizado (macro ou micro, tratamento de saídas mal formatadas)?
-- Qual é o ID oficial do modelo: `ceia-research/lumi-4b` ou `ceia-br/lumi-4b`? E qual versão (v1 ou v0.2)?
-- Qual é o limite de envios diários no Kaggle e o formato do arquivo de submissão?
-- Podemos usar outro modelo de linguagem para gerar dados sintéticos?
-- Basta publicar o adaptador LoRA ou é preciso o modelo mesclado?
 
 ## 🔗 Links
 
 | Recurso | Link |
 | :--- | :--- |
-| Competição no Kaggle | [LINK] |
 | Regulamento | [LINK] |
 | Modelo base | [ceia-research/lumi-4b](https://huggingface.co/ceia-research/lumi-4b) |
 | Documentação do SFTTrainer (TRL) | [huggingface.co/docs/trl/sft_trainer](https://huggingface.co/docs/trl/sft_trainer) |
