@@ -11,7 +11,6 @@ Repositório da equipe para a competição de fine-tuning do **CEIA-BR Lumi 4B**
 | Rodolfo Zion Ruthes Brito | [@rodolfozion1719](https://github.com/rodolfozion1719) |
 | Mouhamed Jamal Jomaa | [@mouhamedjj2008-oss](https://github.com/mouhamedjj2008-oss) |
 | José Daniel Rodrigues de Melo | [@jdrmprofissional08-hue](https://github.com/jdrmprofissional08-hue) |
-| José Henrique Rodrigues Machado | [@SEU_USUARIO](https://github.com/SEU_USUARIO) |
 
 ## 📌 Visão geral
 
