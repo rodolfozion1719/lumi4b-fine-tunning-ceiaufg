@@ -44,10 +44,11 @@ Princípios que valem desde o início. Os arquivos que os sustentam serão criad
 
 | Princípio | Na prática |
 | :--- | :--- |
+| Organização AJCAT | Ainda a definir. |
 | Uma mudança por vez | Em cada experimento alteramos um único fator (por exemplo, só o learning rate). |
 | Comparação justa | Mesma validação, mesma métrica e mesmo prompt em todas as tentativas. |
 | Tudo anotado | Cada experimento registra quem rodou, o que mudou e o F1 obtido. |
-| Parâmetros em arquivo | Configurações em arquivo YAML, não espalhadas pelo código, para reproduzir o resultado. |
+| Parâmetros em arquivo | Configurações em arquivo YAML, para reproduzir o resultado. |
 | Segredos fora do Git | Nunca commitamos dados, pesos de modelo, tokens ou arquivos `.env`. |
 | Kaggle com critério | Só enviamos ao leaderboard o que já foi bem na validação local. |
 
