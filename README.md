@@ -5,8 +5,8 @@ Repositório da equipe para a competição de fine-tuning do modelo **CEIA-BR Lu
 ## 👥 Equipe
 
 - [Rodolfo Zion Ruthes Brito](https://github.com/rodolfozion1719)
-- [Mouhamed Jamal Jomaa](mouhamedjj2008-oss)
-- [José Daniel Rodrigues de Melo ](jdrmprofissional08-hue)
+- [Mouhamed Jamal Jomaa](https://github.com/mouhamedjj2008-oss)
+- [José Daniel Rodrigues de Melo ](https://github.com/jdrmprofissional08-hue)
 
 ## 📌 Visão Geral
 - **Modelo Base:** `ceia-research/lumi-4b`
