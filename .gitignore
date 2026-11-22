@@ -21,3 +21,4 @@ wandb/
 # Submissões e logs
 submissions/
 *.log
+.env
